@@ -48,7 +48,7 @@ Female Voter Statistics:
 ## Hypothesis Testing
 Null Hypothesis: 
 
-- No difference in proporitons
+- No difference in proportions
 - Proportion of male voters - proportion of female voters = 0
 - Therefore, proportion of male voters = proportion of female voters.
 
