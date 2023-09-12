@@ -76,4 +76,9 @@ The calculated p-value of 0.019 is below the set significance level of 5%.
 Therefore, we reject the null hypothesis and accept the alternative. 
 
 There is a significant difference in the proportion of male and female voters.
+
 # Process
+```mermaid
+flowchart TD 
+start(((START)))
+calculate[Calculate Sample Statistics]
