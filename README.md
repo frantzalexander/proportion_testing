@@ -70,6 +70,7 @@ Assuming the null hypothesis is correct:
 
 ![image](https://github.com/frantzalexander/proportion_testing/assets/128331579/45699511-3c30-4f89-82e3-b6566019faeb)
 
+---
 
 ## Conclusion
 - Calculated P-Value of 0.019 is below the significance level of 5%.
