@@ -81,4 +81,22 @@ There is a significant difference in the proportion of male and female voters.
 ```mermaid
 flowchart TD 
 start(((START)))
-calculate[Calculate Sample Statistics]
+calculate[Calculate Voter Sample Statistics]
+male_proportion[Male Voter Proportion]
+male_var[Male Voter Proportion Variance]
+male_std[Male Voter Proportion Standard Deviation]
+female_proportion[Female Voter Proportion]
+female_var[Female Proportion Variance]
+female_std[Female Voter Proportion Standard Deviation]
+sampling[Visualize Sampling Distributions]
+samp
+sampling2[Visualize Proportion Difference Sampling Distribution]
+start --> calculate
+calculate -->|Male Proportion Analysis|male_proportion
+male_proportion --> male_var
+male_var --> male_std
+male_std --> sampling
+calculate --> |Female Proportion Analysis|female_proportion
+female_proportion --> female_var
+female_var --> female_std
+female_std --> sampling
