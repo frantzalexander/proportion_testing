@@ -36,12 +36,14 @@ Female Voter Statistics:
 ---
 
 ## Sampling Distributions
-![image](https://github.com/frantzalexander/proportion_testing/assets/128331579/f355ab8d-473c-440d-87b1-7bfdb914f913)
+![image](https://github.com/frantzalexander/proportion_testing/assets/128331579/490c7892-5164-403d-bdd4-6df592b4e0b7)
+
 
 - Difference in sample proportions: 0.051
 
 - 95% confidence interval for the sample proportions: 0.008 to 0.094.
-![image](https://github.com/frantzalexander/proportion_testing/assets/128331579/c5a1c605-2c46-465c-81ad-fbd1463e12a7)
+![image](https://github.com/frantzalexander/proportion_testing/assets/128331579/5cedfc3b-cdb2-4811-94e9-75bd68c90de3)
+
 
 ---
 
