@@ -104,6 +104,7 @@ null[Calculate Null Hypothesis Statistics]
 critical[Critical Values]
 threshold[Upper & Lower Thresholds]
 visualize[Visualize Distribution PDF]
+communicate[Communicate Results]
 finish(((END)))
 start --> calculate
 calculate -->|Male Proportion Analysis|male_proportion
@@ -123,5 +124,6 @@ sampling2 --> null
 null --> critical
 critical --> threshold
 threshold --> visualize
-visualize --> finish
+visualize --> communicate
+communicate --> finish
 
