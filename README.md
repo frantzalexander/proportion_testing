@@ -75,7 +75,7 @@ Assuming the null hypothesis is correct:
 ---
 
 ## Conclusion
-- Calculated P-Value of 0.019 is below the significance level of 5%.
+- Calculated P-Value of 1.9% which is below the set significance level of 5%.
 
 Therefore, we reject the null hypothesis.
 
