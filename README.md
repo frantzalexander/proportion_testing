@@ -1,10 +1,11 @@
-# Proportion Testing Project Overview
+# Project Overview
 The project consists of a split test analysis between male and female voters.
 
 # Objectives
 - Estimate sample statistics
 - Visualize sampling distributions
 - Perform hypothesis test
+- Determine whether the sample groups are the same.
 
 # Results
 Male Voter Statistics:
