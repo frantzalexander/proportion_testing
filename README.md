@@ -1,5 +1,5 @@
 # Project Overview
-The project consists of a split test analysis between male and female voters.
+The project consists of a statistical hypothesis proportion test analysis on male and female voters.
 
 # Objectives
 - Estimate sample statistics
